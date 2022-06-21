@@ -24,7 +24,7 @@ class _CharactersScreenState extends State<CharactersScreen> {
       controller: searchTextController,
       cursorColor: MyColors.myGrey,
       decoration: const InputDecoration(
-        hintText: 'Find any character..',
+        hintText: 'Find any character...',
         border: InputBorder.none,
         hintStyle: TextStyle(
           color: MyColors.myGrey,
